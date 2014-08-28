@@ -38,6 +38,7 @@ Yuanjin Zhao, zhaoy486@newschool.edu
 _______________________________________________
 
 General Course Description
+
 The primary intent of this course is to get all of us (students, faculty) to think about ourselves as creative individuals, and to investigate our relationship with digital technology, specifically coding and making. How do we become authors using computation and devices? The course will combine informational lectures that will touch upon a variety of topics with hands-on labs that will require the students to code and build projects related to specific technologies (Javascript, Arduino, openFrameworks, and others). 
 
 Lectures will vary between historical overview, scientific explanation, and philosophy. Although carrying on class discussion in such a big group can be a challenge, we will give it a shot. Hopefully ideas raised in this class will find their way to the studio, and vice-versa. Labs will be hands on. Each lab session will involve building code or devices to accomplish a specific goal. Students will be expected to carry out each lab module, and to apply them to projects. Three projects will be required in the lab during the semester (along with weekly homework), with a fourth project possible at the end of the semester.
@@ -50,6 +51,7 @@ This course will have two basic components: the weekly lecture and the weekly la
 _______________________________________________
 
 Assignments
+
 There are three project deliverables for this course, one for each of the (below listed) topics. It is considered desirable to combine projects undertaken in CC with your Major Studio projects. You will have the opportunity to execute a fourth, optional project at the end of the semester. In addition to projects, you will be expected to continue to improve technically (and to demonstrate it in your project solutions), via a variety of weekly homework assignments throughout the semester. You should spend appropriate time designing, developing, and executing each homework assignment and/or project. The course is divided loosely into three parts. The following description provides general details of each part, and the learning outcomes that the related project should demonstrate. Specific details of each course section will be provided in class.
 
 Weekly Homework: 
@@ -84,6 +86,7 @@ Optional deliverable for CC Lecture/Lab: final project (extra credit)
 _______________________________________________
 
 Assessable Tasks and Learning Outcomes
+
 By the successful completion of this course, students will be able to:
  
 Demonstrate an understanding of the iterative making process as relates to code or physical computing, using incremental methods such as prototyping and testing to build toward more advanced work 
